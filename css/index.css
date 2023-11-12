@@ -11,6 +11,18 @@ nav{
     .flex-container-three{
         flex-direction: column;
     }
+    .row{
+        flex-direction: column;
+    }
+    .flex{
+        flex-direction: column;
+    }
+    .flex-container-three{
+        flex-direction: column;
+    }
+    .container-row{
+        flex-direction: column;
+    }
 }
 .navlinks ul li{
 
@@ -79,7 +91,7 @@ nav{
     background-color: #1E3932;
 }
 .last-container img{
-    height: 700px;
+    height: 400px;
 }
 .container{
     background-color: #EF3340;
@@ -130,7 +142,7 @@ padding: 5px 17px;
     margin:auto;
 }
 .flex img{
-    height:900px;
+    height:400px;
 
 }
 
@@ -155,7 +167,7 @@ font-family: Arial, Helvetica, sans-serif;
     color: black;
 }
 .Right-image img{
-    height: 600px;
+    height: 400px;
 }
 .left-text{
     color: white;
@@ -183,7 +195,7 @@ font-family: Arial, Helvetica, sans-serif;
     align-items: center;
 }
 .left-image img {
-    height:700px;
+    height:400px;
 }
 .right-cont{
     margin:auto;
