@@ -28,6 +28,18 @@ nav{
     justify-content: center;
     align-items: center;
 }
+.second-content{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.second-sec{
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0;
+    text-align: center;
+    margin: auto;
+}
 .footer{
     margin:auto;
     padding: 20px 0
